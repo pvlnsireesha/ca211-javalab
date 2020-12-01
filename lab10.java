@@ -1,7 +1,7 @@
-class lab10
+class incr
 {
  static int count=0;
- static void lab10()
+ static void incr()
  {
   count++;
  }
